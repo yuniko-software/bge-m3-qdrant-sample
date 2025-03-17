@@ -1,6 +1,8 @@
 # BGE-M3 Qdrant sample. Hybrid search & reranking 
 
-This repository contains a Jupyter notebook that demonstrates how to build an advanced search system using BGE-M3 and Qdrant.
+![image](https://github.com/user-attachments/assets/f59dc6ae-4189-4fd7-8351-6d5c64f6cf92)
+
+This repository contains a [Jupyter notebook](sample.ipynb) that demonstrates how to build an advanced search system using BGE-M3 and Qdrant.
 
 The key feature of this sample is the use of an all-in-one embedding model (BGE-M3) that generates three types of vectors in a single pass:
 - **Dense vectors**: For semantic similarity (1024 dimensions)
